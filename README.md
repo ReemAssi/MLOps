@@ -14,5 +14,6 @@ You can find the Docker image for this project on Docker Hub at:
 
 #### Simply pull and run the image using:
 docker pull reem02/diamond-prediction-api:v1
+
 docker run -d -p8000:8000 reem02/diamond-prediction-api:v1 
 
